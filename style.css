@@ -1,0 +1,70 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background:Aqua;
+    border: 3px solid gray;
+    border-radius:5px;
+    padding:10px;
+    border-bottom: none;
+}
+
+header img {
+    margin:5px;
+}
+
+header a {
+    border: 1px solid white;
+    text-decoration:none;
+    padding:5px;
+    background:white;
+    border-radius:10px;
+    margin:10px;
+}
+
+h1 {
+    text-align:center;
+    color:orange;
+    border: 3px solid darkviolet;
+    border-radius:10px;
+    padding:10px;
+}
+
+footer {
+    background:pink;
+    padding:3px;
+}
+
+footer p {
+    background:white;
+    padding:5px;
+}
+
+nav {
+    padding:20px;
+    border:5px solid aqua;
+    
+}
+
+nav a {
+    text-decoration:none;
+    margin:10px;
+    border: 3px solid blue;
+    background: blue;
+    color:white;
+    border-radius:5px;
+}
+
+.pm {
+    margin: 10px;
+    background: greenyellow;
+}
+
+.h {
+    color:blue;
+}
+
+p {
+    font-size: 20px;
+}
